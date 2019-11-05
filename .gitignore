@@ -1,0 +1,9 @@
+.idea
+*.iml
+out
+gen
+/dmsdao/target/
+/dmsdomain/target/
+/dmsgenerator/target/
+/dmsuserserver/target/
+/dmsweb/target/
